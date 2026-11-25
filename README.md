@@ -39,7 +39,7 @@ This project combines multiple datasets to identify customer patterns, analyse r
 7. Evaluate customer satisfaction and support-ticket performance.
 8. Create meaningful business visualisations.
 
-   4. Tools and Technologies
+## 4. Tools and Technologies
 
 1. Python - Data analysis.
 2. Pandas - Data cleaning and manipulation. 
@@ -49,26 +49,26 @@ This project combines multiple datasets to identify customer patterns, analyse r
 6. Microsoft Excel - Dataset management and reporting. 
 7. Google Colab - Python notebook environment.
 
-   5. Dataset Description
+## 5. Dataset Description
 
 The project contains five connected synthetic datasets with a total of **9,600 records**.
 
   Dataset                     Records            Description 
 
-  Customers                   1,000             Customer profiles and demographics | 
-  Transactions                5,000             Purchase and transaction details |
-  Products                    100               Product information and categories |
-  Interactions                2,000             Customer interactions and satisfaction |
-  Support_Tickets             1,500             Customer support and ticket details |
+  Customers                   1,000             Customer profiles and demographics. 
+  Transactions                5,000             Purchase and transaction details.
+  Products                    100               Product information and categories.
+  Interactions                2,000             Customer interactions and satisfaction.
+  Support_Tickets             1,500             Customer support and ticket details.
 
-   Dataset Relationships
+## Dataset Relationships
 
    Customer_ID connects customers with transactions, interactions, and support tickets.
    Product_ID connects transactions with product information.
 
 The datasets include selected data-quality issues such as missing values, inconsistent text formatting, and transaction amount outliers for cleaning practice.
 
-   6. Project Workflow
+  ## 6. Project Workflow
 
 The project is divided into eight phases.
 
@@ -170,7 +170,7 @@ Dashboard components include:
 - Customer satisfaction
 - Support-ticket performance
  
-7. Key Analytical Techniques
+## 7. Key Analytical Techniques
 
 - Data cleaning and preprocessing
 - Missing-value treatment
@@ -187,7 +187,7 @@ Dashboard components include:
 - Correlation analysis
 - Data visualisation
  
-8. GitHub Repository Structure
+## 8. GitHub Repository Structure
 
 
 Advanced-CRM-Customer-Analytics/
